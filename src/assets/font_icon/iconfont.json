@@ -1,0 +1,51 @@
+{
+  "id": "3926063",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577313",
+      "name": "加号1",
+      "font_class": "jiahao1",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "577374",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "34272988",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "34272990",
+      "name": "服装",
+      "font_class": "fuzhuang",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "34273008",
+      "name": "解决方案",
+      "font_class": "jiejuefangan",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "34273062",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    }
+  ]
+}
